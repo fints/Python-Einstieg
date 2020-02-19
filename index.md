@@ -4,7 +4,7 @@
 
 layout: home
 ---
-Hallo und willkomen zur Einführung in Python mit Jupyter.
+Hallo und willkomen zur Einführung in Python mit Jupyter. <br>
 
 ![Image of User_Environment_Kernel](images/User_Environment_Kernel.jpg)
 
