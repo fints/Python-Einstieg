@@ -7,4 +7,4 @@ permalink: /installation/
 Hier folgt eine Beschreibung für die Installtation von Python mit Jupyter.
 <br><br><br>
 
-![Image of hammer](images/hammer.mp4)
+![Image of hammer](images/hammer.jpg)
