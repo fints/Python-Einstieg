@@ -21,4 +21,3 @@ Hallo und willkomen zur Einführung in Python mit Jupyter. <br><br>
     - Daten Import/Export
     - Visualisierung
     
-lalelkjsaldjföladf
