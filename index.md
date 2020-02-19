@@ -13,10 +13,10 @@ Hallo und willkomen zur Einführung in Python mit Jupyter. <br>
 - Installation Jupyter + Python mit [WinPython](http://winpython.github.io/)
 - Einführung:
     - Umgang mit Markdown
-    - Grundlagen Datenstrukturen
+    - Grundlegende Datenstrukturen
     - Formeln und Variablen
     - Funktionen
     - Module
-    - Ablaufsteuerung, Schleifen, Umgang mit Ausnahmen
-    - Importieren/ Exportieren von Daten
+    - Ablaufsteuerung und Schleifen
+    - Daten Import/Export
     - Visualisierung
