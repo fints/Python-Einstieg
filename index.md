@@ -4,10 +4,19 @@
 
 layout: home
 ---
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hallo und willkomen zur Einführung in Python mit Jupyter.
 
-![Image of fast.ai logo](images/logo.png)
+![Image of User_Environment_Kernel](images/User_Environment_Kernel.jpg)
 
-## This is a title
+## Ziele
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+- Installation Jupyter + Python mit [WinPython](http://winpython.github.io/)
+- Einführung:
+    - Umgang mit Markdown
+    - Grundlagen Datenstrukturen
+    - Formeln und Variablen
+    - Funktionen
+    - Module
+    - Ablaufsteuerung, Schleifen, Umgang mit Ausnahmen
+    - Importieren/ Exportieren von Daten
+    - Visualisierung
