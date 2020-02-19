@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Einführung
-permalink: /einführung/
+title: Python
+permalink: /python/
 ---
 
 Hier folgt eine Einführung in Python mit Jupyter.
