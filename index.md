@@ -4,7 +4,7 @@
 
 layout: home
 ---
-Hallo und willkomen zur Einführung in Python mit Jupyter. <br>
+Hallo und willkomen zur Einführung in Python mit Jupyter. <br><br>
 
 ![Image of User_Environment_Kernel](images/User_Environment_Kernel.jpg)
 
@@ -20,3 +20,5 @@ Hallo und willkomen zur Einführung in Python mit Jupyter. <br>
     - Ablaufsteuerung und Schleifen
     - Daten Import/Export
     - Visualisierung
+    
+lalelkjsaldjföladf
