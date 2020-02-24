@@ -1,11 +1,13 @@
-# Example Markdown Post
+# WinPython installieren
 
 Here's the table of contents:
 
 1. TOC
 {:toc}
 
-## Basic setup
+## Allgemein
+
+Für Jupyter in Verbindung mit Python gibt es einige großartige Optionen
 
 Jekyll requires blog post files to be named according to the following format:
 
